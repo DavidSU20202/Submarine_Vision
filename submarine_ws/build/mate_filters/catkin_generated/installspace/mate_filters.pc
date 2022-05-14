@@ -1,0 +1,8 @@
+prefix=/home/david/submarine_ws/install
+
+Name: mate_filters
+Description: Description of mate_filters
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,2 @@
+mate_filters
+-DCATKIN_DEVEL_PREFIX=/home/david/submarine_ws/devel -DCMAKE_INSTALL_PREFIX=/home/david/submarine_ws/install -G Unix Makefiles
